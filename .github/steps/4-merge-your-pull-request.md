@@ -5,26 +5,26 @@
   if users accidentally closed without merging.
 -->
 
-## Step 4: Merge your pull request
+## Paso 4: Fusionar tu pull request
 
-_Nicely done! :sunglasses:_
+_¡Bien hecho! :sunglasses:_
 
-You successfully created a pull request. You can now merge your pull request.
+Has creado exitosamente un pull request. Ahora puedes fusionar (merge) tu pull request.
 
-**What is a merge?**: A _[merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)_ adds the changes in your pull request and branch into the `main` branch. For more information about merges, see "[Merging a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)."
+**¿Qué es un merge?**: Un _[merge](https://docs.github.com/es/get-started/quickstart/github-glossary#merge)_ añade los cambios de tu pull request y rama a la rama `main`. Para más información sobre los merges, consulta "[Merging a pull request](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)".
 
-As noted in the previous step, you may have seen evidence of GitHub Actions running which automatically progresses your instructions to the next step. You'll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.
+Como se mencionó en el paso anterior, puede que hayas visto evidencia de que GitHub Actions se está ejecutando, lo cual automáticamente avanza tus instrucciones al siguiente paso. Tendrás que esperar a que termine antes de poder fusionar tu pull request. Estará listo cuando el botón de merge pull request esté en verde.
 
-![screenshot of green merge pull request button](/images/Green-merge-pull-request.png)
+![captura de pantalla del botón de fusionar pull request en verde](/images/Green-merge-pull-request.png)
 
-### :keyboard: Activity: Merge the pull request
+### :keyboard: Actividad: Hacer merge del pull request
 
-1. Click **Merge pull request**.
-2. Click **Confirm merge**.
-3. Once your branch has been merged, you don't need it anymore. To delete this branch, click **Delete branch**.
+1. Haz clic en **Merge pull request** (Fusionar pull request).
+2. Haz clic en **Confirm merge** (Confirmar fusión).
+3. Una vez que tu rama haya sido fusionada, ya no la necesitas. Para eliminar esta rama, haz clic en **Delete branch** (Eliminar rama).
 
-   <img alt="screenshot showing delete branch button" src="/images/delete-branch.png"/>
+   ![captura de pantalla mostrando el botón de eliminar rama](/images/delete-branch.png)
 
-4. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+4. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo las instrucciones). [GitHub Actions](https://docs.github.com/es/actions) se actualizará automáticamente al siguiente paso.
 
-   **Note**: Check out the **Finish** step to see what you can learn next!
+   **Nota**: ¡Consulta el paso **Finish** (Finalización) para ver qué puedes aprender a continuación!
