@@ -19,10 +19,6 @@ _¡Bienvenido a "Introducción a GitHub"! :wave:_
 
 Las ramas te permiten separar tu trabajo de la rama `main`. En otras palabras, el trabajo de todos está seguro mientras contribuyes. Para más información, consulta "[Acerca de las ramas](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
 
-**¿Qué es un README de perfil?**: Un _[README de perfil](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ es esencialmente una sección "Acerca de mí" en tu perfil de GitHub donde puedes compartir información sobre ti mismo con la comunidad en GitHub.com. GitHub muestra tu README de perfil en la parte superior de tu página de perfil. Para más información, consulta "[Administrar tu README de perfil](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![ejemplo-readme-perfil](/images/profile-readme-example.png)
-
 ### :keyboard: Actividad: Tu primera rama
 
 1. Abre una nueva pestaña del navegador y navega a tu repositorio recién creado. Luego, trabaja en los pasos en tu segunda pestaña mientras lees las instrucciones en esta.
